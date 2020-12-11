@@ -17,6 +17,12 @@ aliases = ["/audit_cookbook.html", "/audit_supported_configurations.html"]
 [\[edit on GitHub\]](https://github.com/chef/chef-web-docs/blob/master/content/audit_cookbook.md)
 
 
+{{< note >}}
+
+Much of the information in this document is outdated and unsupported. Chef Infra users interested in integrating their Chef Infra client runs with Chef InSpec and Chef Automate should evaluate [Chef Infra's Compliance Phase](/chef_compliance_phase) instead of following this document.
+
+{{< /note >}}
+
 
 {{< note >}}
 
